@@ -5,4 +5,4 @@ Google Play와 App Store에 넣을 공개 페이지입니다. 앱 소스와 분�
 - 고객지원: `/`
 - 개인정보처리방침: `/privacy/`
 
-스토어에 URL을 넣기 전에 `OPERATOR_NAME_PLACEHOLDER`와 `CONTACT_EMAIL_PLACEHOLDER`를 실제 운영자명·수신 가능한 이메일로 바꿉니다.
+운영자 표시명은 나들길, 문의 이메일은 ndlg0622@gmail.com 입니다.

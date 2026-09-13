@@ -131,11 +131,6 @@ li + li {
   font-size: 0.92rem;
 }
 
-.todo {
-  background: #fff7c2;
-  padding: 0.05em 0.25em;
-}
-
 footer {
   margin-top: 2.5rem;
   color: var(--muted);
